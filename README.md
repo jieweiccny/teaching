@@ -1,2 +1,2 @@
 # teaching
-used soly for teaching
+used soly for teaching purpose
